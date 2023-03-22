@@ -1,7 +1,7 @@
-![logo](https://cdn.dribbble.com/userupload/3818972/file/original-762dd13a12269fc9bd542db339cc1cb6.png?compress=1&crop=522x80-2730x1737&resize=450x338&vertical=top)
+![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
 <h1 align="center">Hi 👋, I'm Shanvi Jaiswal</h1>
 <h3 align="center">A passionate Software developer enthusiast from India</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/3f/05/84/3f0584b8d29ab9469e609a792d3ac242.png">
+<img align="right" alt="Coding" width="200" src="https://st3.depositphotos.com/1642684/19262/v/450/depositphotos_192628704-stock-illustration-vector-illustration-flat-robot.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanvijaiswal87" alt="shanvijaiswal87" /></a> </p>
 
